@@ -27,7 +27,12 @@
 
 ## 📸 Demo Screenshots
 
-> Add your real screenshots here
+>![image](https://github.com/user-attachments/assets/10eacca9-0da0-44c5-aeca-4dccb16e67c3)
+![image](https://github.com/user-attachments/assets/b5511889-0cc6-4234-b12d-26d98b028cf6)
+![image](https://github.com/user-attachments/assets/944efc24-d996-4112-a5ea-3c8cc0ef09f7)
+
+
+
 
 <img src="screenshots/chat.png" width="600" />
 <img src="screenshots/reminder.png" width="600" />
@@ -131,7 +136,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 ## 👩‍💼 Author
 
-**Akhileswari Pemmanaboina**
+**Sai Mani**
 
 > B.Tech CSE Student | AI Developer | NLP & Automation Enthusiast
 
