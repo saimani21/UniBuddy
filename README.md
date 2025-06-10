@@ -142,9 +142,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
