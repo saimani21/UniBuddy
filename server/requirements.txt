@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+openai>=1.0.0
+motor
+dnspython
+apscheduler
+pytz
+python-multipart

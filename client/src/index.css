@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Chat Styling */
+.chat-container {
+  @apply max-w-3xl mx-auto mt-10 px-4 sm:px-6 lg:px-8;
+}
+
+.chat-box {
+  @apply bg-white shadow-xl rounded-xl p-6;
+}
+
+.chat-title {
+  @apply text-2xl font-semibold mb-4 text-center text-purple-900;
+}
+
+.chat-scroll-area {
+  @apply h-[400px] overflow-y-auto space-y-3 px-2 py-4 bg-gray-50 rounded-lg border;
+}
+
+.message {
+  @apply max-w-[75%] break-words px-4 py-2 rounded-xl text-sm shadow;
+}
+
+.message.user {
+  @apply bg-blue-100 text-right self-end ml-auto;
+}
+
+.message.assistant {
+  @apply bg-green-100 text-left self-start mr-auto;
+}
+
+.input-area {
+  @apply flex mt-4 border border-gray-300 rounded-lg overflow-hidden;
+}
+
+.input-area input {
+  @apply flex-1 px-4 py-2 text-sm outline-none;
+}
+
+.input-area button {
+  @apply bg-blue-600 text-white px-5 py-2 hover:bg-blue-700 transition;
+}
